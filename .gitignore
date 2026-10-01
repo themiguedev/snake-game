@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.manifest
+warn-*.txt
+xref-*.html
+
+# Temporales del runtime de PyInstaller
+SnakeGame_temp/
+_MEI*/
+rt_*/
+*.tmp
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
